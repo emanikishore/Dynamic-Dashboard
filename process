@@ -1,0 +1,14 @@
+Running the Application Locally
+
+1. Clone the Repository or Extract the ZIP:
+If shared via GitHub: git clone <repository_url>
+
+2. Install Dependencies:
+npm install
+
+3. Start the Application:
+npm start
+
+4. Open the Application in the Browser:
+Navigate to http://localhost:3000 in your browser.
+
